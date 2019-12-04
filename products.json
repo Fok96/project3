@@ -2,12 +2,14 @@
     {
         "_id": 1,
         "name": "Core i7",
+        "photo": "https://c1.neweggimages.com/NeweggImage/ProductImage/19-117-958-V03.jpg",
         "price": 700,
         "category": "pc-parts"
     },
     {
         "_id": 2,
         "name": "Core i3",
+        "photo": "https://b.scdn.gr/images/sku_main_images/020142/20142212/20190918121629_intel_core_i3_9100_box.jpeg",
         "price": 300,
         "category": "pc-parts",
         "sale": 250
@@ -15,13 +17,15 @@
     {
         "_id": 3,
         "name": "Core i5",
+        "photo": "https://d.scdn.gr/images/sku_main_images/010787/10787131/20171208162806_intel_core_i5_7400_box.jpeg",
         "price": 500,
         "category": "pc-parts",
         "sale": 450
     },
     {
         "_id": 4,
-        "name": "Core i9",
+        "name": "Core i9    ",
+        "photo": "https://www.overclockers.co.uk/media/image/thumbnail/CP65JIN_193693_800x800.jpg",
         "price": 900,
         "category": "pc-parts"
     }
